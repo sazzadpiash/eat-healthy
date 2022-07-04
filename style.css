@@ -1,0 +1,30 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+    padding: 60px 80px;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 60px;
+    color: #575757;
+}
+p {
+    color: #828282;
+    font-size: 20px;
+    
+}
