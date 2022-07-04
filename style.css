@@ -26,6 +26,8 @@ h1 {
 p {
     color: #828282;
     font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 31px;
 }
 
 .gradient-button {
@@ -66,4 +68,28 @@ p {
     background: url(images/Group\ 8430.png);
     background-position: bottom;
     padding: 60px 80px 0px 80px;
+}
+
+.recipie-section {
+    text-align: center;
+    padding: 50px 0px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #575757;
+}
+
+.details {
+    width: 700px;
+    margin: auto;
+}
+
+.info-box {
+    padding: 30px;
+    box-shadow: 8px 10px 78px -25px #575757;
+    text-align: left;
+    border-radius: 25px;
+    margin: 20px;
+    background-color: #FFF;
 }
