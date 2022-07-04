@@ -2,7 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 .container {
-    padding: 60px 80px;
+    padding: 0px 80px;
 }
 
 .flex-box {
@@ -54,4 +54,19 @@ button {
 .gradient-button-1 {
     background-image: linear-gradient(to right, #FBA24F,#FF1E1E);
     border: none;
+}
+
+.second-img {
+    width: 60% !important;
+    margin: auto;
+}
+
+#second-img-div {
+    text-align: center;
+}
+
+.second-section {
+    background: url(images/Group\ 8430.png);
+    background-position: bottom;
+    padding: 60px 80px 0px 80px;
 }
