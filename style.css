@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -22,6 +27,7 @@ body {
 h1 {
     font-size: 60px;
     color: #575757;
+    margin-bottom: 20px;
 }
 p {
     color: #828282;
@@ -78,6 +84,7 @@ p {
 h2 {
     font-size: 40px;
     color: #575757;
+    margin-bottom: 30px;
 }
 
 .details {
@@ -92,4 +99,34 @@ h2 {
     border-radius: 25px;
     margin: 20px;
     background-color: #FFF;
+}
+
+.one-third-box {
+    width: 33%;
+}
+
+.counter-section {
+    background-color: #fff;
+    box-shadow: 8px 10px 78px -25px #575757;
+    border-radius: 25px;
+    padding: 60px 0px;
+    margin: 20px;
+    margin-top: 100px;
+    color: black !important;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 80px 0px;
+}
+
+footer h3 {
+    font-size: 30px;
+    color: #828282;
+    margin-bottom: 30px;
+}
+
+.info-box h3 {
+    margin: 25px 0px 10px;
 }
